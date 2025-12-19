@@ -60,5 +60,6 @@ public class ahorcado {
             System.err.println("Has agotado tus intentos. La palabra era: " + palabraSecreta);
         }
         scanner.close();
+        System.out.println("Juego terminado.");
     }
 }
